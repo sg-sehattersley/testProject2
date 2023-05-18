@@ -7,7 +7,12 @@ sdfgdfsgfds
 
 sdfgsgsd
 
+<<<<<<< HEAD
 wsdfiugbsdfofgsfed
 
 fgwdsdfgsdf
 sdfhggdfhgfd
+=======
+dfshgsdfghfd
+asdfgsdfgsdf
+>>>>>>> 1.1.1
